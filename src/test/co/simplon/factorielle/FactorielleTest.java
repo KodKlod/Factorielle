@@ -26,15 +26,6 @@ public class FactorielleTest {
 		assertEquals(720, resultat);
 	}
 	
-	/*@Test
-	public void leResultatDeFactorielleMoinsTroisDoitEtreErreur() {
-		Factorielle valeurNegative = new Factorielle ();
-		long n=-3;
-		
-		long resultat = valeurNegative.calculer(n);
-		
-		assertEquals(Erreur, resultat);*/
-	
 	@Test
 	public void leResultatDeFactorielleZeroDoitEtreUn() {
 		Factorielle valeurZero = new Factorielle ();
@@ -45,5 +36,13 @@ public class FactorielleTest {
 		assertEquals(1, resultat);
 	}
 	
+	/*@Test
+	public void leResultatDeFactorielleMoinsTroisDoitEtreErreur() {
+		Factorielle valeurNegative = new Factorielle ();
+		long n=-3;
+		
+		long resultat = valeurNegative.calculer(n);
+		
+		assertEquals(Erreur, resultat);*/
 	
 }
