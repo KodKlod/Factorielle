@@ -1,4 +1,5 @@
-https://travis-ci.org/KodKlod/Factorielle
+[![Build Status](https://travis-ci.org/KodKlod/Factorielle.svg?branch=TravailKlod)](https://travis-ci.org/KodKlod/Factorielle)
+
 
 # Factorielle
 
