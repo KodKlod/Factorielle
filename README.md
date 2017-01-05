@@ -1,3 +1,5 @@
+https://travis-ci.org/KodKlod/Factorielle
+
 # Factorielle
 
 Base de code propice à l'écriture de tests unitaires
